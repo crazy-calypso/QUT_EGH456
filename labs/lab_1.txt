@@ -1,0 +1,14 @@
+Part A
+Qu 1.
+Port: 32 bit
+Pin:  8 bit
+
+Qu 2.
+Port: N
+Pin: 0
+
+Qu 3.
+Address: 0x40064000
+
+Qu 4.
+A delay of 200,000 is created by a for loop.
